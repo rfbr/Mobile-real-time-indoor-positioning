@@ -12,6 +12,8 @@ Indeed, the evolution of our system, the pedestrian, can be identified as a Hidd
 
 Consider the pedestrian in a given state at time *t*, *E_t*, we have an evolution distribution who gives us a hypothetical state at time $t+1$ that we will denote *E_t+1*. As said before, we cannot have access to the real state of the pedestrian, however we have an observation *O_t+1* given by the neural network estimation. Thus, Bayes' theorem gives us:
 
+![Screenshot_20191119_231059](https://user-images.githubusercontent.com/45492759/69191022-ec081380-0b21-11ea-9ffe-6df3d0715a42.png)
+
 Hence, we can define the posterior probability to be in the state *E_t+1* given the observation *O_t+1* according to what's called likelihood *Pr(O_t+1|E_t+1)*, this probability reflects the confidence we place in our observation, the prior distribution *Pr(E_t+1)* and the marginal probability of the observation, this one being unknown but common to all hythetical states.
 
 The particle filter resumes this system presented above with the principle that that each hypothetical state will be represented by the evolution of a particle. We will compute the likelihood of each particle at a given time, which will define the weight of the partcile, to redefine by resampling the particles according to their weight the posterior distribution of the pedestrian real state. To estimate this state, we will take the empirical mean of the particle state, which estimates the posterior expectation.
