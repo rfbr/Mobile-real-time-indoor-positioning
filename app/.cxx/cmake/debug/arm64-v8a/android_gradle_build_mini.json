@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/romain/ML_PDR/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/romain/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/romain/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/home/romain/ML_PDR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}

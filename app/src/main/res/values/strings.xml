@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ML_PDR</string>
+    <string name="gyro">Gyroscope:</string>
+    <string name="acce">Accelerometer:</string>
+    <string name="zero">0.000</string>
+    <string name="startRecord">Start recording data</string>
+    <string name="stopRecord">Stop recording data</string>
+</resources>

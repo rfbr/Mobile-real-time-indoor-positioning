@@ -1,0 +1,71 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/romain/ML_PDR",
+      "sdkFolder": "/home/romain/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/romain/ML_PDR/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/romain/ML_PDR/app",
+      "makeFile": "/home/romain/ML_PDR/app/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/romain/ML_PDR/.cxx",
+      "cxxFolder": "/home/romain/ML_PDR/app/.cxx",
+      "ndkFolder": "/home/romain/Android/Sdk/ndk-bundle",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "/home/romain/ML_PDR/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/home/romain/ML_PDR/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/romain/ML_PDR/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/romain/ML_PDR/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARM64_V8A",
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 26,
+  "cxxBuildFolder": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a",
+  "jsonFile": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a",
+  "objFolder": "/home/romain/ML_PDR/app/build/intermediates/cmake/debug/obj/arm64-v8a",
+  "buildCommandFile": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/romain/ML_PDR/app/.cxx/cxx/debug/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/romain/ML_PDR/app/.cxx/cmake/debug/arm64-v8a/compile_commands.json"
+}

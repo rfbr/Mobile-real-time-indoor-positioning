@@ -1,0 +1,7 @@
+# ninja log v5
+0	481	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	3c43cf565639612e
+482	533	0	/home/romain/ML_PDR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ce688c50c23c5920
+0	460	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	3c43cf565639612e
+461	518	0	/home/romain/ML_PDR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ce688c50c23c5920
+0	505	0	CMakeFiles/native-lib.dir/native-lib.cpp.o	3c43cf565639612e
+505	560	0	/home/romain/ML_PDR/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ce688c50c23c5920
